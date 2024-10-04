@@ -10,11 +10,17 @@
     {
       "name": "black"
     },
+     {
+      "name": "black-liquid"
+    },
     {
       "name": "black-1"
     },
     {
       "name": "blue"
+    },
+    {
+      "name": "blue-liquid"
     },
     {
       "name": "blue-1"
@@ -66,6 +72,9 @@
     },
     {
       "name": "red"
+    },
+    {
+      "name": "red-liquid"
     },
     {
       "name": "red-1"

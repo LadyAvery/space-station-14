@@ -52,6 +52,17 @@
   weight: 120
 
 - type: department
+  id: HighCommand
+  name: department-HighCommand
+  description: department-HighCommand-description
+  color: "#334E6D"
+  roles:
+  - Captain
+  - HeadOfPersonnel
+  primary: false
+  weight: 110
+
+- type: department
   id: Command
   name: department-Command
   description: department-Command-description

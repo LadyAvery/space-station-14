@@ -61,6 +61,7 @@
   - HeadOfPersonnel
   primary: false
   weight: 110
+  editorHidden: true
 
 - type: department
   id: Command
